@@ -1,5 +1,5 @@
 # Tripster
-A mobile first  built web app designed to share your adventures.  Users first log in through our database or with a GitHub account.  Once verified the user is able to make a post about a location they've traveled to, comment on others journeys or browse by destination.  
+A mobile first full-stack web app designed to share your adventures.  Users first log in through our database or with a GitHub account.  Once verified the user is able to make a post about a location they've traveled to, comment on others journeys or browse by destination.  User data is stored in a postgrSQL database and served via Express.js
 [View the app here](https://trippy-blog.herokuapp.com/)
 
 ## Developer Team
